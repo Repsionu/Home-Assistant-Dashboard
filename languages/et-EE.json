@@ -75,7 +75,7 @@
 
   "menu.automation": "automatiseering",
   "menu.room": "ruum",
-  "menu.setting": "säte",
+  "menu.setting": "sätted",
 
   "status.active_device": "aktiivne seade",
   "status.armed_away": "valve all kui eemal",
@@ -127,7 +127,7 @@
   "setting.restore": "taasta",
   "setting.sign_in": "logi sisse",
   "setting.sign_out": "logi välja",
-  "setting.sound_effect": "helieffekt",
+  "setting.sound_effect": "heliefekt",
   "setting.write_review": "kirjuta arvustus",
 
   "translator":"repsionu"
