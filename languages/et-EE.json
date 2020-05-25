@@ -61,7 +61,7 @@
   "class.switch": "lüliti",
   "class.vacuum": "tolmuimeja",
   "class.water_heater": "veeboiler",
-  "class.weather": "ilm",
+  "class.weather": "ilmateade",
 
   "entity_detail.add_user_image": "lisa kasutaja pilt",
   "entity_detail.button_order_sort": "ikoonide järjestus",
@@ -77,7 +77,7 @@
 
   "menu.automation": "automatiseering",
   "menu.room": "ruum",
-  "menu.setting": "säte",
+  "menu.setting": "seaded",
 
   "status.active_device": "aktiivne seade",
   "status.armed_away": "valve all kui eemal",
